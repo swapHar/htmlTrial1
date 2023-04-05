@@ -39,3 +39,15 @@ p{
     color: chartreuse;
     font-size: larger;
 }
+
+a{
+    color: rgb(6, 24, 180);
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+p span{
+    color: coral;
+}
